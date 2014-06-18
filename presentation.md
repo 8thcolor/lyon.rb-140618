@@ -9,7 +9,7 @@ Christophe Philemotte, Lyon.rb, 18 June 2014
 * Developer ([@toch on GitHub](https://github.com/toch), [@_toch on Twitter](https://twitter.com/_toch))
 * Author on [blog.8thcolor.com](http://blog.8thcolor.com)
 * CoFounder of PullReview [https://pullreview.com](https://pullreview.com)
-* [BRUG](http://brug.be) org, [RG Brussels](http://railsgirls.com/brussels) co-org & coach
+* [BRUG](http://brug.be) org, [RG Brussels](http://railsgirls.com/brussels) co-org & coach, [Ruby_burgers.rb](http://www.meetup.com/ruby_burgers-rb/) co-org
 
 ---
 

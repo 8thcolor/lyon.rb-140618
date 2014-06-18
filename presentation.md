@@ -9,8 +9,11 @@ Christophe Philemotte, Lyon.rb, 18 June 2014
 * Developer ([@toch on GitHub](https://github.com/toch), [@_toch on Twitter](https://twitter.com/_toch))
 * Author on [blog.8thcolor.com](http://blog.8thcolor.com)
 * CoFounder of PullReview [https://pullreview.com](https://pullreview.com)
+* [BRUG](http://brug.be) org, [RG Brussels](http://railsgirls.com/brussels) co-org & coach
 
 ---
+
+## Happy
 
 ![Mr Happy Man](images/Mr-Happy-Man.png)
 
@@ -24,6 +27,10 @@ Christophe Philemotte, Lyon.rb, 18 June 2014
 ---
 
 > Code is like farts. It stinks if it isn't yours.
+
+---
+
+## What's code quality?
 
 ---
 
@@ -61,7 +68,7 @@ Christophe Philemotte, Lyon.rb, 18 June 2014
 
 ---
 
-### 2 Aspects
+## 2 Aspects
 
 * Functional
 * Structural
@@ -89,7 +96,7 @@ How it complies to the:
 
 ---
 
-### How to check them?
+## How to check them?
 
 ---
 
@@ -97,15 +104,15 @@ How it complies to the:
 
 ---
 
-* Tests
-* &nbsp;
-* &nbsp;
+![Tests](images/test.jpg)
 
 ---
 
-* Tests
-* Code Review
-* &nbsp;
+![Code Review](images/code_review.jpg)
+
+---
+
+![Static Analysis](images/staticanalysis.jpeg)
 
 ---
 
@@ -115,7 +122,11 @@ How it complies to the:
 
 ---
 
-### How to start?
+## How to start?
+
+---
+
+![How to start?](images/howtostart.png)
 
 ---
 
